@@ -1,0 +1,132 @@
+.seccion__productos{
+    background-color: #d6e7f8;
+    padding: 3rem 0;
+}
+
+.laptops,
+.moviles,
+.accesorios{
+    margin: 0 0 2rem 0;
+}
+
+.laptops__head,
+.moviles__head,
+.accesorios__head{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+    padding-top: 5rem;
+}
+
+.laptops__head__titulo-principal,
+.moviles__head__titulo-principal,
+.accesorios__head__titulo-principal{
+    font-weight: 700;
+    font-size: 2rem;
+    color: #d46b08;
+}
+
+.laptops__head__boton,
+.moviles__head__boton,
+.accesorios__head__boton{
+    color: #d46b08;
+    font-weight: 800;
+}
+
+.laptops__head__boton::after,
+.moviles__head__boton::after,
+.accesorios__head__boton::after{
+	content: '🡪';
+	color: #d46b08;
+    margin-left: .6rem;
+}
+
+.laptops__productos,
+.moviles__productos,
+.accesorios__productos,
+.productos_admin,
+.producto_similares,
+.productos_index{
+    display: grid;
+    gap: 1rem;
+    grid-auto-rows: 22rem;
+    grid-template-columns: repeat(auto-fill, minmax(14rem, 1fr));
+}
+
+.producto__card__imagen{
+    height: 279px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.producto__card__imagen,
+.producto__card__titulo,
+.producto__card__precio{
+    margin-bottom: .5rem;
+}
+
+.producto__card__titulo{
+    color: #464646;
+}
+
+.producto__card__precio{
+    font-weight: 800;
+    color: crimson;
+}
+
+.producto__card__boton{
+    color: #3d2975;
+    font-weight: 800;
+}
+
+.productos__resultados_mensaje{
+    height: 30vh;
+    font-weight: 700;
+    font-size: 2rem;
+    color: #464646;
+}
+
+
+/* ----- Responsive para Mobiles ------ */
+
+@media only screen and (max-width: 767px){
+
+}
+
+/* ----- Responsive para Tablets ------ */
+
+@media (min-width:768px) and (max-width:1024px){
+
+    .productos__resultados_mensaje{
+        height: 48vh;
+    }
+
+}
+
+/* https://i.postimg.cc/V60v5PGL/accesorio-1.webp
+https://i.postimg.cc/BbW6K7k5/accesorio-2.webp
+https://i.postimg.cc/QCpMkkZ2/accesorio-3.webp
+https://i.postimg.cc/jqNCbKnM/accesorio-4.webp
+https://i.postimg.cc/m2yDPwwM/accesorio-5.webp
+https://i.postimg.cc/HkWLXyZN/accesorio-6.webp
+https://i.postimg.cc/qvmvLvWv/accesorio-7.webp
+https://i.postimg.cc/MKSHZ4yq/accesorio-8.webp
+
+https://i.postimg.cc/MGvKr88b/celular-12t-pro.jpg
+https://i.postimg.cc/FHK97Q15/celular-SAMSUNG-Galaxy-A24-128-GB.jpg
+https://i.postimg.cc/Pq9fgFXG/celular-xiaomi-redmi-10-2022-64gb.webp
+https://i.postimg.cc/NfDss0sk/celular-xiaomi-redmi-10c-4128gb-gris.jpg
+https://i.postimg.cc/fTDWQdNb/celular-xiaomi12korolos.jpg
+
+https://i.postimg.cc/qRKB4XqN/Laptop-gamer-Legion-5i-7ma-Gen-de-15-6.jpg
+https://i.postimg.cc/BbGS6LPM/Laptop-Hp-15-dw2043la-Intel-Core-i5-1035-G1-256-GB.jpg
+https://i.postimg.cc/KcncWNCV/Laptop-HP-AMD-Ryzen-5-4500-U-4-GB-256-GB.jpg
+https://i.postimg.cc/RhQMnSc9/Laptop-HUAWEI.jpg
+
+https://i.postimg.cc/Z5DJNDy9/tab-A8-samsung.jpg
+https://i.postimg.cc/R064LQcg/tab-huawei.jpg
+https://i.postimg.cc/43DZL7Ps/tab-Lenovo-P12.jpg
+https://i.postimg.cc/3N7hhszq/tab-lenovo.jpg
+https://i.postimg.cc/LXjSr9Qf/tab-xiaomi-tab5.jpg */

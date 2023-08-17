@@ -1,0 +1,83 @@
+{
+  "productos": [
+    {
+      "nombre": "Computador portatil HUAWEI",
+      "precio": "1.500.000",
+      "imagen": "https://i.postimg.cc/RhQMnSc9/Laptop-HUAWEI.jpg",
+      "id": "1",
+      "categoria": "Laptops",
+      "descripcion": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habit. colombia"
+    },
+    {
+      "nombre": "Computador portatil-HP-AMD-Ryzen-5",
+      "precio": "1.500.000",
+      "imagen": "https://i.postimg.cc/KcncWNCV/Laptop-HP-AMD-Ryzen-5-4500-U-4-GB-256-GB.jpg",
+      "id": "2",
+      "categoria": "Laptops",
+      "descripcion": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habit."
+    },
+    {
+      "nombre": "Computador portatil Hp-15-Intel-Core-i5",
+      "precio": "2500000",
+      "imagen": "https://i.postimg.cc/BbGS6LPM/Laptop-Hp-15-dw2043la-Intel-Core-i5-1035-G1-256-GB.jpg",
+      "categoria": "Laptops",
+      "descripcion": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habit.colombian",
+      "id": "5"
+    },
+    {
+      "nombre": "Computador portatilgamer-Legion-5i-7ma-Gen-de-15-6.",
+      "precio": "3000000",
+      "imagen": "https://i.postimg.cc/qRKB4XqN/Laptop-gamer-Legion-5i-7ma-Gen-de-15-6.jpg",
+      "id": "6",
+      "categoria": "Laptops",
+      "descripcion": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habit."
+    },
+    {
+      "nombre": "Computador portatil HP 15 Intel core i5",
+      "precio": "2000000",
+      "imagen": "https://i.postimg.cc/BbGS6LPM/Laptop-Hp-15-dw2043la-Intel-Core-i5-1035-G1-256-GB.jpg",
+      "categoria": "Laptops",
+      "descripcion": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habit. colombia",
+      "id": "3"
+    },
+    {
+      "nombre": "Celular  Xiaomi 12t Pro 5g",
+      "precio": "1200000",
+      "imagen": "https://i.postimg.cc/MGvKr88b/celular-12t-pro.jpg",
+      "id": "bd90e99e-e8d6-41a5-93cb-91889dcd0fa9",
+      "categoria": "Moviles",
+      "descripcion": "Xiaomi 12T 5G - Smartphone de 8+128GB, Pantalla de 6.67” AMOLED de 120Hz, Dimensity 8100-Ultra, Cámara pro de 108MP, Smart Hypercharge 120W, 5000mAh, Clear Blue (Versión ES + 3 años de garantía)"
+    },
+    {
+      "nombre": "Celular  SAMSUNG-Galaxy-A24-128-GB color",
+      "precio": "1500000",
+      "imagen": "https://i.postimg.cc/FHK97Q15/celular-SAMSUNG-Galaxy-A24-128-GB.jpg",
+      "categoria": "Moviles",
+      "descripcion": "El Samsung Galaxy A24 es un nuevo móvil de gama media 4G, con Helio G99 en su interior y una cantidad de memoria RAM bastante generosa para su gama: 6 u 8 GB de RAM y 128 GB de almacenamiento que se puede complementar con una tarjeta MicroSD de hasta 1 TB.",
+      "id": "8"
+    },
+    {
+      "nombre": "Celular  xiaomi-redmi-10-2022-64gb",
+      "precio": "1500000",
+      "imagen": "https://i.postimg.cc/Pq9fgFXG/celular-xiaomi-redmi-10-2022-64gb.webp",
+      "categoria": "Moviles",
+      "descripcion": "Xiaomi Redmi 10 - Smartphone 4+64 GB, 6,5 FHD+ 90 Hz DotDisplay, MediaTek Helio G88, 50MP cámara cuádruple con IA, 5000 mAh, Gris Carbón (Versión ES+ 2 años de garantía)."
+    },
+    {
+      "nombre": "Cargador Apple",
+      "precio": "100000",
+      "imagen": "https://i.postimg.cc/MKSHZ4yq/accesorio-8.webp",
+      "id": "81",
+      "categoria": "Accesorios",
+      "descripcion": "Sed vitae finibus ante. Aenean tempor condimentum lorem, vitae pretium nisi pulvinar a. Praesent varius viverra iaculis. Proin lorem felis, rutrum sit amet lacus id, ultricies molestie odio. In hac habitasse platea dictumst. Maecenas sed nunc in justo cursus rutrum at consequat metus. Ut pellentesque vestibulum ligula, id molestie velit molestie quis. Nulla eu quam magna. Sed odio urna, convallis ultrices nisl commodo, convallis tristique orci"
+    },
+    {
+      "nombre": "Auriculares Inalambricos",
+      "precio": "120000",
+      "imagen": "https://i.postimg.cc/qvmvLvWv/accesorio-7.webp",
+      "id": "18",
+      "categoria": "Accesorios",
+      "descripcion": "Sed vitae finibus ante. Aenean tempor condimentum lorem, vitae pretium nisi pulvinar a. Praesent varius viverra iaculis. Proin lorem felis, rutrum sit amet lacus id, ultricies molestie odio. In hac habitasse platea dictumst. Maecenas sed nunc in justo cursus rutrum at consequat metus. Ut pellentesque vestibulum ligula, id molestie velit molestie quis. Nulla eu quam magna. Sed odio urna, convallis ultrices nisl commodo, convallis tristique orci"
+    }
+  ]
+}

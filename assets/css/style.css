@@ -1,0 +1,13 @@
+html{
+	scroll-behavior: smooth;
+}
+
+body{
+    font-family: 'Raleway', sans-serif;
+    background-color: rgb(239, 234, 241);
+}
+
+.container{
+    width: 94%;
+    margin: 0 auto;
+}
