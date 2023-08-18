@@ -34,7 +34,7 @@ const obtenerInformacion = async () => {
       const infoProducto = document.querySelector("[data-producto]");
 
       const contenido = `
-        <img class="producto__imagen" src="${producto.imagen}" alt="producto star wars">
+        <img class="producto__imagen" src="${producto.imagen}" alt="producto laptop">
         <div class="producto__info">
             <h2 class="producto__info__titulo">${producto.nombre}</h2>
             <p class="producto__info__valor">${producto.precio}</p>

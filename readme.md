@@ -1,6 +1,9 @@
 # E-commerce TecnoGeek
 
-[Puedes probarlo aqui!]()
+[Puedes probarlo aqui!](https://guerrero16.github.io/TecnoGeek-CRUD/)
+usuario = "user"
+password = "user1608"
+
 
 ## Secciones
 * Inicio

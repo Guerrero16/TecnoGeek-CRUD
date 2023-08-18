@@ -23,7 +23,6 @@ const tipoDeErrores = [
 const mensajesDeError = {
 
   //Inputs login
-
   usuario: {
     valueMissing: "El campo usuario no puede estar vacio",
   },
@@ -32,7 +31,6 @@ const mensajesDeError = {
   },
 
   //Inputs contactanos
-
   nombre: {
     valueMissing: "El campo Nombre no puede estar vacio"
   },
@@ -41,7 +39,6 @@ const mensajesDeError = {
   },
 
   //Inputs agregar producto
-
   nombreProducto: {
     valueMissing: "El campo Nombre del Producto no puede estar vacio",
     patternMismatch: "El Nombre solo puede contener como maximo 40 caracteres"

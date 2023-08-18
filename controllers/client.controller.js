@@ -1,11 +1,11 @@
 import { clientServices } from "../services/client-service.js";
 import { MostrarProductos } from "./mostrar.productos.controller.js";          
 
-//Capturando la seccion de productos star wars
+//Capturando la seccion de productos Laptops
 const productosLaptops = document.querySelector("[data-laptops]");
-//Capturando la seccion de consolas
+//Capturando la seccion de Moviles
 const productosMoviles = document.querySelector("[data-moviles]");
-//Capturando la seccion de consolas
+//Capturando la seccion de Accesorios
 const productosAccesorios = document.querySelector("[data-accesorios]");
 
 //Recorrer los datos traidos del JSON

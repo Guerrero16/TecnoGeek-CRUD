@@ -10,8 +10,8 @@ const loginUsuario = () => {
   const contraseñaIngresada = document.querySelector("[data-form-contraseña]").value;
   console.log(correoIngresado);
   console.log(contraseñaIngresada);
-  var user = "admin";
-  var pass = "admin1608";
+  var user = "user";
+  var pass = "user1608";
 
   if( correoIngresado === user && contraseñaIngresada === pass ){
     Swal.fire({
